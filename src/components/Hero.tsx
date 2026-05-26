@@ -56,7 +56,7 @@ export default function Hero() {
       {/* Editorial Hero Text Block */}
       <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 pt-32 pb-16 lg:pt-40 lg:pb-20">
         <span className="luxury-label text-gold text-[13px] mb-6 animate-fade-in">
-          Premium Japon Saç Bakımı
+          Premıum Japon Saç Bakımı
         </span>
         <h1 className="luxury-heading text-4xl sm:text-5xl lg:text-7xl xl:text-8xl mb-4 max-w-4xl animate-slide-up">
   150 Yıllık
